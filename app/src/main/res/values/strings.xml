@@ -1,0 +1,74 @@
+<resources>
+<string name="app_name">HEWAN</string>
+<string name="Kucing_kurakura_amp_kelinci">Kelinci, kurakura dan Kucing</string>
+<string name="biodata">Biodata</string>
+// Layout
+<string name="pilih_gambar">(Pilih gambar untuk membuka galeri)</string>
+<string name="daftar_ras_judul">Daftar Ras Hewan</string>
+<string name="kembali">Kembali</string>
+<string name="Kucing">Kucing</string>
+<string name="kurakura">kurakura</string>
+<string name="kelinci">Kelinci</string>
+<string name="kucing_list_title">Daftar Ras Kucing</string>
+<string name="kurakura_list_title">Daftar Ras kurakura</string>
+<string name="kelinci_list_title">Daftar Ras Kelinci</string>
+    // Data kucing
+    <string name="anggora_nama">Anggora</string>
+    <string name="anggora_asal">Turki</string>
+    <string name="anggora_deskripsi">Aslinya berasal dari Ankara, Turki dengan ciri khas berbulu panjang dan lembut</string>
+    <string name="bengal_nama">Bengal</string>
+    <string name="bengal_asal">inggris</string>
+    <string name="bengal_deskripsi">Merupakan hasil persilangan antara Kucing Leopard Asia dengan kucing domestik Inggris.</string>
+    <string name="birmani_nama">birmani</string>
+    <string name="birmani_asal">myanmar</string>
+    <string name="birmani_deskripsi">Konon awalnya merupakan ras kucing yand biasa menemani para biksu yang menetap pada kuil di Birma</string>
+    <string name="persia_nama">persia</string>
+    <string name="persia_asal">iran</string>
+    <string name="persia_deskripsi">Kucing berbulu panjang dengan wajah bundar dan hidung pesek. Awalnya berasal dari Iran kemudian diimpor ke Italia.</string>
+    <string name="siam_nama">siam</string>
+    <string name="siam_asal">thailand</string>
+    <string name="siam_deskripsi">Kucing hasil turunan dari Wichian Maat (Kucing Thailand) dengan ciri khas berbadan panjang dan langsing, wajah lonjong, telinga lebar, dan mata kebiruan.</string>
+    <string name="siberia_nama">siberia</string>
+    <string name="siberia_asal">rusia</string>
+    <string name="siberia_deskripsi">Kucing domestik Rusia dengan bulu lebat dan badan besar tapi sangat lincah dan terkenal dengan kemampuan melompatnya.</string>
+    // Data Kurakura
+    <string name="cherry_head_nama">cherry_head</string>
+    <string name="cherry_head_asal">Paraguay</string>
+    <string name="cherry_head_deskripsi">"kura-kura Cherry Head yang tergolong ke dalam jenis hewan omnivora ini mampu mengonsumsi mulai dari dedaunan, sayur-sayuran, buah-buahan, cacing, hingga serangga."</string>
+    <string name="forsteni_nama">forsteni spp</string>
+    <string name="forsteni_asal">Sulawesi selatan, indonesia</string>
+    <string name="forsteni_deskripsi">Walau tergolong kura-kura darat, ternyata jenis kura-kura eksotis ini lebih menyukai habitat dengan kondisi lembab, misal di dekat aliran sungai.</string>
+    <string name="leopard_nama">leopard</string>
+    <string name="leopard_asal">benua afrika</string>
+    <string name="leopard_deskripsi">Sebagai hewan herbivora, pakan dari kura-kura Leopard umumnya berupa dedaunan, sayur-sayuran, dan buah-buahan, nih</string>
+    <string name="sulcata_nama">sulcata</string>
+    <string name="sulcata_asal">gurun afrika</string>
+    <string name="sulcata_deskripsi">Jenis kura-kura darat ini punya ciri khas tempurung berwarna kuning dan punya karakteristik sangat keras. Kura-kura Sulcata pun tergolong salah satu spesies kura-kura darat terbesar di dunia</string>
+    <string name="aligator_nama">aligator</string>
+    <string name="aligator_asal">Amerika utara</string>
+    <string name="aligator_deskripsi">Bukan hanya penampilannya saja, jenis kura-kura ini juga memiliki temperamen yang agresif dan tidak ragu untuk menggigit jika merasa terancam dengan kondisi di sekitarnya..</string>
+    <string name="indian_nama">indian</string>
+    <string name="indian_asal">asia selatan</string>
+    <string name="indian_deskripsi">Ukuran dari kura-kura Indian Star juga tergolong kecil, yakni mulai 17-30 centimeter. Spesies kura-kura darat ini juga mampu bertahan hidup hingga 80 tahun, dengan rata-rata 30-55 tahun sebagai peliharaan.</string>
+    //Data Kelinci
+    <string name="netherland_dwarf_nama">netherland_dwarf</string>
+    <string name="netherland_dwarf_asal">Belanda</string>
+    <string name="netherland_dwarf_diskripsi">kelinci yang berasal dari belanda dengan berat 1,1-2,5 pon,Dwarf belanda adalah satu ras kelinci terkecil</string>
+    <string name="orictolagus_cuniculus_nama">orictolagus_cuniculus</string>
+    <string name="orictolagus_cuniculus_asal">eropa</string>
+    <string name="orictolagus_cuniculus_diskripsi">kelinci orictolagus cuniculus juga disebut kelinci eropa atau kelinci domestik adalah satu satunya spesies dalam genusnya</string>
+    <string name="holland_lop_nama">holland_lop</string>
+    <string name="holland_lop_asal">Belanda</string>
+    <string name="holland_lop_diskripsi">kelinci jenis holland lop adalah kelinci yang independent dan playfull</string>
+    <string name="mini_lop_nama">mini_lop</string>
+    <string name="mini_lop_asal">jerman</string>
+    <string name="mini_lop_diskripsi">Adalah jenis kelinci domestik yang di akui oleh american rabbit association</string>
+    <string name="raksasa_nama">raksasa</string>
+    <string name="raksasa_asal">belgia</string>
+    <string name="raksasa_diskripsi">jenis kelinci domestik yang sangat besar,biasanya dianggap sebagai jenis terbesar dari spesiesnya</string>
+    <string name="rex_nama">rex</string>
+    <string name="rex_asal">prancis</string>
+    <string name="rex_diskripsi">kelinci ini mempunyai tubuh yang besar,telinga yang tegak,dan ciri khas yang menjadikan kelinci rex ini di sukai adalah bulunya yang seperti karpet</string>
+    <string name="notifikasi">notifikasi</string>
+    <string name="kucing">kucing</string>
+</resources>
